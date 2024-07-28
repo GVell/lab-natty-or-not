@@ -20,29 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Elementar, minha cara IA.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Jogo de advinhação, comparando trechos reais das histórias de Sherlock Holmes com trechos gerados pela inteligência artificial do Google, a Gemini. Os trechos são aocmpanhados por imagens geradas pelo Gemini usando o próprio conteúdo do texto como prompt de comando.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini, Google Slides. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Trechos dos seguintes livros foram usados: Um Estudo em Vermelho, O Cão dos Baskerville, O Signo dos Quatro, O Vale da Morte.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é uma apresentação que pode ser aberta com o Google Slides, Microsoft PowerPoint ou outro progama semelhante. Cada slide consiste em um trecho ou deiretamente retirado das histórias de Sherlock Holmes ou gerado por IA. O objetivo é advinhar qual o verdadeiro. 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão 
+O maior desafio foi encontrar trechos que pudessem ser usados para a geração de conteúdo artificial. Os trechos não podem ser muito específicos, tornando a identificação muito fácil, nem muito complexos, dificultando a compreensão do leitor e a utilização como prompt pra IA. Algumas iterações foram necessárias para encontrar os trechos ideais. Outro ponto interessante foi o grau de liberdade dado à IA para gerar o conteúdo novo, as regras são mencionadas em detalhe nos prompts do projeto. Evitei usar muitas restrições e acredito que o resultado mostre o quão semelhante aos originais alguns textos são. 
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
